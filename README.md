@@ -1,7 +1,7 @@
 # AccountForm_FE_FreeCodeCamp
 Practice for FE development
 
-Using HTML, CSS & Javascript to build the web page
+Using HTML, CSS & Javascript to build the form with validation
 
 Link: https://codepen.io/khlauaj/pen/zYZBrdE
 
